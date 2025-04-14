@@ -4,7 +4,7 @@
     "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}",
     "plugins": [
       {
-        "id": "jmptags",
+        "id": "aemtags",
         "title": "AEM Tags",
         "environments": ["da-edit"],
         "path": "/tools/tags.html"
